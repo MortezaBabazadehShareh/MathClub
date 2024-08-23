@@ -1,4 +1,5 @@
 [deps]
+CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
 Crayons = "a8cc5b0e-0ffa-5ad4-8c14-923d3ee1735f"
 GraphPlot = "a2cc645c-3eea-5389-862e-a155d0052231"
 GraphRecipes = "bd48cda9-67a9-57be-86fa-5b3c104eda73"
